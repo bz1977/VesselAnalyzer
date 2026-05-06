@@ -1,0 +1,237 @@
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
+[MultiRayServer] Loading mesh: C:\Users\bz197\AppData\Local\Temp\vessel_mr_v_wwgm0t.stl
+[MultiRayServer] numpy-AABB grid built in 0.2s: res=16 cells=502 large_tris=0
+[MultiRayServer] numpy fast-load + grid: 87780 tris in 0.23s
+[MultiRayServer] Mesh ready in 0.23s
+[MultiRayServer] Branch 0: 45 pts
+[MultiRayServer] Branch 0: done in 2.38s
+[MultiRayServer] Branch 1: 236 pts
+[MultiRayServer] Branch 1: done in 14.43s
+[MultiRayServer] Branch 2: 58 pts
+[MultiRayServer] Branch 2: done in 2.93s
+[MultiRayServer] Branch 3: 32 pts
+[MultiRayServer] Branch 3: done in 1.80s
+[MultiRayServer] Branch 4: 24 pts
+[MultiRayServer] Branch 4: done in 1.34s
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 53754)
+Traceback (most recent call last):
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 424, in handle_one_request
+    method()
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 795, in do_POST
+    self._send_json(200, {
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 695, in _send_json
+    body = json.dumps(obj).encode()
+           ^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type float32 is not JSON serializable
+----------------------------------------
+[MultiRayServer] Stopped.
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
+[MultiRayServer] Loading mesh: C:\Users\bz197\AppData\Local\Temp\vessel_mr_hv92rfn9.stl
+[MultiRayServer] numpy-AABB grid built in 0.2s: res=16 cells=502 large_tris=0
+[MultiRayServer] numpy fast-load + grid: 87780 tris in 0.23s
+[MultiRayServer] Mesh ready in 0.23s
+[MultiRayServer] Branch 0: 45 pts
+[MultiRayServer] Branch 0: done in 2.45s
+[MultiRayServer] Branch 1: 236 pts
+[MultiRayServer] Branch 1: done in 15.62s
+[MultiRayServer] Branch 2: 58 pts
+[MultiRayServer] Branch 2: done in 3.01s
+[MultiRayServer] Branch 3: 32 pts
+[MultiRayServer] Branch 3: done in 2.13s
+[MultiRayServer] Branch 4: 24 pts
+[MultiRayServer] Branch 4: done in 1.47s
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 53967)
+Traceback (most recent call last):
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 424, in handle_one_request
+    method()
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 795, in do_POST
+    self._send_json(200, {
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 695, in _send_json
+    body = json.dumps(obj).encode()
+           ^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type float32 is not JSON serializable
+----------------------------------------
+[MultiRayServer] Stopped.
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
+[MultiRayServer] Loading mesh: C:\Users\bz197\AppData\Local\Temp\vessel_mr_ztlx01js.stl
+[MultiRayServer] numpy-AABB grid built in 0.2s: res=16 cells=502 large_tris=0
+[MultiRayServer] numpy fast-load + grid: 87780 tris in 0.24s
+[MultiRayServer] Mesh ready in 0.24s
+[MultiRayServer] Branch 0: 45 pts
+[MultiRayServer] Branch 0: done in 2.35s
+[MultiRayServer] Branch 1: 236 pts
+[MultiRayServer] Branch 1: done in 14.18s
+[MultiRayServer] Branch 2: 58 pts
+[MultiRayServer] Branch 2: done in 2.92s
+[MultiRayServer] Branch 3: 32 pts
+[MultiRayServer] Branch 3: done in 1.79s
+[MultiRayServer] Branch 4: 24 pts
+[MultiRayServer] Branch 4: done in 1.35s
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 54133)
+Traceback (most recent call last):
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 424, in handle_one_request
+    method()
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 795, in do_POST
+    self._send_json(200, {
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 695, in _send_json
+    body = json.dumps(obj).encode()
+           ^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type float32 is not JSON serializable
+----------------------------------------
+[MultiRayServer] Stopped.
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
+[MultiRayServer] Stopped.
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
+[MultiRayServer] Loading mesh: C:\Users\bz197\AppData\Local\Temp\vessel_mr_63n4e1gq.stl
+[MultiRayServer] numpy-AABB grid built in 0.2s: res=16 cells=502 large_tris=0
+[MultiRayServer] numpy fast-load + grid: 87780 tris in 0.24s
+[MultiRayServer] Mesh ready in 0.24s
+[MultiRayServer] Branch 0: 45 pts
+[MultiRayServer] Branch 0: done in 2.39s
+[MultiRayServer] Branch 1: 236 pts
+[MultiRayServer] Branch 1: done in 15.14s
+[MultiRayServer] Branch 2: 58 pts
+[MultiRayServer] Branch 2: done in 2.89s
+[MultiRayServer] Branch 3: 32 pts
+[MultiRayServer] Branch 3: done in 1.77s
+[MultiRayServer] Branch 4: 24 pts
+[MultiRayServer] Branch 4: done in 1.36s
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 54673)
+Traceback (most recent call last):
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\http\server.py", line 424, in handle_one_request
+    method()
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 795, in do_POST
+    self._send_json(200, {
+  File "C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server.py", line 695, in _send_json
+    body = json.dumps(obj).encode()
+           ^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\slicer.org\3D Slicer 5.10.0\lib\Python\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type float32 is not JSON serializable
+----------------------------------------
+[MultiRayServer] Stopped.
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
+[MultiRayServer] Loading mesh: C:\Users\bz197\AppData\Local\Temp\vessel_mr_119qchu5.stl
+[MultiRayServer] numpy-AABB grid built in 0.2s: res=16 cells=502 large_tris=0
+[MultiRayServer] numpy fast-load + grid: 87780 tris in 0.25s
+[MultiRayServer] Mesh ready in 0.25s
+[MultiRayServer] Branch 0: 45 pts
+[MultiRayServer] Branch 0: done in 2.39s
+[MultiRayServer] Branch 1: 236 pts
+[MultiRayServer] Branch 1: done in 14.47s
+[MultiRayServer] Branch 2: 58 pts
+[MultiRayServer] Branch 2: done in 2.95s
+[MultiRayServer] Branch 3: 32 pts
+[MultiRayServer] Branch 3: done in 1.80s
+[MultiRayServer] Branch 4: 24 pts
+[MultiRayServer] Branch 4: done in 1.35s
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
+[MultiRayServer] Loading mesh: C:\Users\bz197\AppData\Local\Temp\vessel_mr_8fx1282e.stl
+[MultiRayServer] numpy-AABB grid built in 0.2s: res=16 cells=502 large_tris=0
+[MultiRayServer] numpy fast-load + grid: 87780 tris in 0.24s
+[MultiRayServer] Mesh ready in 0.24s
+[MultiRayServer] Branch 0: 45 pts
+[MultiRayServer] Branch 0: done in 2.35s
+[MultiRayServer] Branch 1: 236 pts
+[MultiRayServer] Branch 1: done in 14.26s
+[MultiRayServer] Branch 2: 58 pts
+[MultiRayServer] Branch 2: done in 2.87s
+[MultiRayServer] Branch 3: 32 pts
+[MultiRayServer] Branch 3: done in 1.74s
+[MultiRayServer] Branch 4: 24 pts
+[MultiRayServer] Branch 4: done in 1.33s
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)

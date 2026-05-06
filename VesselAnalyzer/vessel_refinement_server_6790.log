@@ -1,0 +1,1334 @@
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] Auto-installing missing packages: ['open3d', 'pymeshfix']
+[RefinementServer] pip install open3d …
+[RefinementServer] open3d installed OK.
+[RefinementServer] pip install pymeshfix …
+[RefinementServer] pymeshfix installed OK.
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] Auto-installing missing packages: ['open3d', 'pymeshfix']
+[RefinementServer] pip install open3d …
+[RefinementServer] open3d installed OK.
+[RefinementServer] pip install pymeshfix …
+[RefinementServer] pymeshfix installed OK.
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix failed (skipping): __init__(): incompatible function arguments. The following argument types are supported:
+    1. __init__(self) -> None
+
+Invoked with types: pymeshfix._meshfix.PyTMesh, bool
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 0.69s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263312 verts, 87780 tris
+[RefinementServer] pymeshfix failed (skipping): __init__(): incompatible function arguments. The following argument types are supported:
+    1. __init__(self) -> None
+
+Invoked with types: pymeshfix._meshfix.PyTMesh, bool
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 0.65s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263310 verts, 87780 tris
+[RefinementServer] pymeshfix failed (skipping): __init__(): incompatible function arguments. The following argument types are supported:
+    1. __init__(self) -> None
+
+Invoked with types: pymeshfix._meshfix.PyTMesh, bool
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 0.65s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix failed (skipping): __init__(): incompatible function arguments. The following argument types are supported:
+    1. __init__(self) -> None
+
+Invoked with types: pymeshfix._meshfix.PyTMesh, bool
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 0.64s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.64s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.66s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.69s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.52s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.53s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.52s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.63s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.57s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.62s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.57s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.57s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.60s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.60s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.52s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.57s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.50s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.56s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.60s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.58s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.58s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.58s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.66s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.69s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.64s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.69s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.65s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.63s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.62s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.60s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.56s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.58s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.58s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.55s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.53s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.64s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.63s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.57s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.56s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.55s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.72s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.60s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.58s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.58s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.68s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.69s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.65s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.60s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.66s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.66s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.55s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.70s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.76s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.85s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.71s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.81s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.78s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.86s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.80s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.57s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.60s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.75s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.77s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 2.21s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.77s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.65s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.61s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.62s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.59s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.61s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.61s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.67s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.63s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.63s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.62s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.54s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.65s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.70s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB
+[RefinementServer] /shutdown received — stopping.
+[RefinementServer] Stopped.
+[RefinementServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log  (pipe-deadlock prevention active)
+[RefinementServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_refinement_server_6790.log
+[RefinementServer] open3d:    0.19.0
+[RefinementServer] pymeshfix: 0.18.1
+[RefinementServer] Listening on port 6790  (open3d=yes  pymeshfix=yes)
+[RefinementServer] /refine: received 4286 KB STL
+[RefinementServer] Loaded: 263296 verts, 87780 tris
+[RefinementServer] pymeshfix: 43892 verts, 87780 tris
+[RefinementServer] Taubin smooth: 5 iters, λ=0.5, μ=-0.53
+[RefinementServer] Done in 1.56s: 43892 verts, 87780 tris
+[RefinementServer] Response sent: 4286 KB

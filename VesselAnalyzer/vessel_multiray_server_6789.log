@@ -1,0 +1,3 @@
+[MultiRayServer] stdout/stderr redirected to C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log  (pipe-deadlock prevention active)
+[MultiRayServer] Log file: C:\Users\bz197\Documents\VesselAnalyzer\vessel_multiray_server_6789.log
+[MultiRayServer] Listening on port 6789  (threading=yes  trimesh=no  numpy=yes)
